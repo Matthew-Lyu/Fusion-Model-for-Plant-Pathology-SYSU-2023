@@ -30,7 +30,7 @@ CUDA Version: 11.3
 
 训练代码：./train_2.py
 
-### 命令行穿参
+### 命令行传参
 
 ```python
 parser = argparse.ArgumentParser()
