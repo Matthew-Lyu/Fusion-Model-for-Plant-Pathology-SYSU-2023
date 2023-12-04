@@ -88,6 +88,12 @@ def train_fn_triplet(net, loader, optimizer):
     return accuracy, tr_loss / TRAIN_SIZE
 ```
 
+## 模型权重下载
+
+[AwesomeModel的best weight](https://drive.google.com/file/d/1srK5_hd1-_BRrs7tfYJtoJ5-krvapswq/view?usp=share_link)
+
+[AwesomeModel with TripletLoss的best weight](https://drive.google.com/file/d/1Osx6j6y2x_0VEjTxgYSSn0-Umgq4Lhcu/view?usp=share_link)
+
 ## 模型性能
 
 ### 训练
