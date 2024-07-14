@@ -1,4 +1,4 @@
-# Plant Pathology-2021分类任务
+# Plant Pathology-2021分类任务的融合模型解决方案
 
 ## 项目说明
 
