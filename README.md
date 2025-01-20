@@ -172,6 +172,5 @@ AwesomeModel为主模型，234为消融实验，其余深度学习框架用于�
 
 ## 附录
 
-对比模型训练过程：
-
+Baseline models训练过程：
 ![对比](./assets/对比.png)
