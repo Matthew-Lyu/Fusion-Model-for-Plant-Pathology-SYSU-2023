@@ -2,8 +2,6 @@
 
 ## 项目说明
 
-本项目是中山大学智能工程学院2023年秋本科生《计算机视觉》课程大作业。
-
 任务与数据集链接：https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8/overview
 
 <img src="./assets/class.png" alt="class" style="zoom: 33%;" />
