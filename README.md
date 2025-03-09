@@ -1,4 +1,4 @@
-# CVPR 2021 FGVC8 Workshop 苹果叶病细粒度分类任务的 Model Fusion 解决方案
+# CVPR 2021 FGVC8 Workshop 树叶疾病细粒度识别和分类任务的 Model Fusion 解决方案
 
 ## 项目说明
 
